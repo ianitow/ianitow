@@ -2,7 +2,7 @@
 <p><samp>Hi there! I'm <b>Iaan Mesquita</b>.</samp>
 <samp>I'm a <b>Computer Science</b> undergraduate student at <a href="https://www.ufg.br/">Universidade Federal de Goiás</a> in Goiás, <b>Brazil</b>. I'm passionate about <b>Web Development</b>, <b>Cybersecurity</b>, <b>Complex problems</b>, <b>Software Architect</b>, </b>and <b>Open Source</b>.
 
-Here are some of the projects I've been working on in [my portfolio](https://ianitow.github.io)
+Here are some of the projects I've been working on in [my portfolio][website]
 	
 </samp></p>
 
@@ -10,7 +10,7 @@ Here are some of the projects I've been working on in [my portfolio](https://ian
 ### Goals for 2023
 - Improve my English for fluent conversation
 - Learn Clean Code Archicheture and apply in 2 projects
-- Write new articles in ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)
+- Write new articles in ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=for-the-badge&logoColor=white)
 
 
 
@@ -49,15 +49,19 @@ Here are some of the projects I've been working on in [my portfolio](https://ian
 
 ### Contact me
 
-![https://www.linkedin.com/in/iaanmesquita/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://dev.to/ianito](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![https://twitter.com/_ianito](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![mailto:iaan.developer@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ianitow&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/ianitow/github-readme-stats)
 
 
-
+[website]: https://ianitow.github.io/
+[twitter]: https://twitter.com/_ianito
+[linkedin]: https://www.linkedin.com/in/iaanmesquita/?locale=en_US
+[devto]: https://dev.to/ianito
+[gmail]: mailto:iaan.developer@gmail.com
 
