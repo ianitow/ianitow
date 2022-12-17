@@ -10,9 +10,7 @@ Here are some of the projects I've been working on in [my portfolio][website]
 ### Goals for 2023
 - Improve my English for fluent conversation
 - Learn Clean Code Archicheture and apply in 2 projects
-- Write new articles in ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=for-the-badge&logoColor=white)
-
-
+- Write new articles in [dev.to/ianito][devto]
 
 <hr/>
 
