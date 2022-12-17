@@ -44,16 +44,17 @@
 
 <hr/>
 ### Contact me
+<p align="left">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
-
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)
-
+	</p>
+<p align="right">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ianitow&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/ianitow/github-readme-stats)
 
-<p align=right> <img src=https://komarev.com/ghpvc/?username=ianitow alt=ianitow /> </p>
+</p>
 
 
 
