@@ -1,16 +1,20 @@
 ## Hey 👋
+<img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/68/6f/61/686f61a923775e73e7d3d08b70be4d6e.gif"/>
 <p><samp>Hi there! I'm <b>Iaan Mesquita</b>.</samp>
 <samp>I'm a <b>Computer Science</b> undergraduate student at <a href="https://www.ufg.br/">Universidade Federal de Goiás</a> in Goiás, <b>Brazil</b>. I'm passionate about <b>Web Development</b>, <b>Cybersecurity</b>, <b>Complex problems</b>, <b>Software Architect</b>, </b>and <b>Open Source</b>.
 
 Here are some of the projects I've been working on in [my portfolio][website]
 	
-</samp></p>
+</samp>
+
+</p>
 
 
 ### Goals for 2023
 - Improve my English for fluent conversation
 - Learn Clean Code Archicheture and apply in 2 projects
 - Write new articles in [dev.to/ianito][devto]
+
 
 <hr/>
 
