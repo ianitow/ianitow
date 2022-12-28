@@ -13,7 +13,7 @@
 
 ### Goals for 2023
 - <samp>Improve my English for fluent conversation</samp>
-- <samp>Learn Clean Code Archicheture and apply in 2 projects</samp>
+- <samp>Learn Clean Code Architecture and apply in 2 projects</samp>
 - <samp>Write new articles in [dev.to/ianito][devto]</samp>
 
 
